@@ -11,7 +11,7 @@ I'm **Willow**, a full-stack developer passionate about learning and building co
 
 ## 🛠 Tech Stack  
 - **Frontend:** Vue.js, React  
-- **Backend:** Node.js, PHP  
+- **Backend:** Node.js, PHP, Python 
 - **Other:** APIs, Databases, Cloud Services  
 
 ## 🌱 Interests  
