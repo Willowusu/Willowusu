@@ -3,9 +3,7 @@
 I'm **Willow**, a full-stack developer passionate about learning and building cool things that solve problems.  
 
 ## ⚡ Work Experience  
-- 🔨 **Cofounder & Software Engineer** at **ClicknFix**  
 - 🏦 **Software Engineer** at **Juni Ghana Limited**  
-- 💰 **Software Engineer** at **Vola Money**  
 - 🌐 **Software Engineer** at **Continental Money Transfer**  
 
 
@@ -20,4 +18,4 @@ I'm **Willow**, a full-stack developer passionate about learning and building co
 - 🍳 Cooking  
 - 🏃 Cardio activities  
 
-📖 More about me: [willow.gitbook.io/willows-space](https://willow.gitbook.io/willows-space/)  
+📖 My thoughts here: [Some random thoughts](https://willow.btw.so)  
